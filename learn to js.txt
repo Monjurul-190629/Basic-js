@@ -1,0 +1,39 @@
+Variables: Containers for storing data values.
+
+Data Types: Different types of data that JavaScript can manipulate, such as strings, numbers, booleans, objects, etc.
+
+Operators: Symbols used to perform operations on variables and values.
+
+Control Flow: Structures like if statements, switch statements, loops (for, while) for controlling the flow of the program.
+
+Functions: Blocks of reusable code that can be defined and called with a specific set of parameters.
+
+Objects: Complex data structures that can store key-value pairs.
+
+Arrays: Ordered lists of values.
+
+Events: User interactions or browser actions that trigger functionality in the code.
+
+DOM (Document Object Model): A programming interface for web documents that allows manipulation of HTML and XML documents.
+
+AJAX (Asynchronous JavaScript and XML): Techniques for creating dynamic and asynchronous web applications.
+
+Callbacks and Promises: Used for handling asynchronous operations and managing the flow of the program.
+
+Closures: Functions that have access to variables from their outer (enclosing) scope.
+
+Scope: The context in which variables are declared and the rules for their accessibility.
+
+Prototype and Inheritance: JavaScript's object-oriented programming features.
+
+ES6+ Features: Newer features introduced in ECMAScript 2015 (ES6) and later versions, like arrow functions, classes, let/const, destructuring, etc.
+
+JSON (JavaScript Object Notation): A lightweight data interchange format often used for data exchange between a server and a web application.
+
+Module System: Organizing code into separate files and modules for better maintainability and reusability.
+
+Promises and Async/Await: Modern asynchronous programming techniques.
+
+Event Handling: Managing user interactions and responses to events in the browser.
+
+Debugging Tools: Familiarity with browser developer tools and debugging techniques.
